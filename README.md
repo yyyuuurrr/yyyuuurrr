@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 -->
 <br>
 <p align="center">
-  안녕하세요 꾸준히 성장하는 신입개발자 진유림입니다.🌱😄
+  안녕하세요 꾸준히 성장하는 신입 진유림입니다.🌱😄
+  <p><b>잘 부탁드립니다.</b></p>
   
 </p>
 <br>
