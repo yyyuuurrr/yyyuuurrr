@@ -20,9 +20,13 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   안녕하세요 꾸준히 성장하는 신입 진유림입니다.🌱😄
-  <p><b>잘 부탁드립니다.</b></p>
   
 </p>
+<p>
+  <b>test</b>
+  
+</p>
+
 <br>
 <br>
 <h3 align="center">📚 Tech Stack 📚</h3>
